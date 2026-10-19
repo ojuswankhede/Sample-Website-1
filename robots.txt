@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hair-inspiration.be/sitemap.xml
